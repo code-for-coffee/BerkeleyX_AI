@@ -7,3 +7,4 @@
   * [Lists](week1/lists.md)
   * [Dictionaries](week1/dictionary.md)
   * [Sets](week1/sets.md)
+  * [Foreach](week1/foreach.md)
