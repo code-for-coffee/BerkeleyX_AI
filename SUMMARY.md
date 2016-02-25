@@ -1,4 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Project 0: Python](week1/README.md)
+* [Python](week1/README.md)
+  * [Methods](week1/methods.md)
+  * [help()](week1/help.md)
+  * [Lists](week1/lists.md)
+  * [Dictionaries](week1/dictionary.md)
+  * [Sets](week1/sets.md)
